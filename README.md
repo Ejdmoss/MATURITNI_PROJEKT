@@ -13,6 +13,7 @@ Tento projekt je postaven pomocí moderních technologií:
 Flutter pro multiplatformní vývoj mobilních aplikací
 Firebase pro backend a ukládání dat
 REST API pro integraci s dalšími fitness službami (budoucí rozšíření)
-Reference
-<!-- Tady můžeš postupně přidávat odkazy na zdroje a dokumentaci, které budou součástí projektu -->
-Můžeš tento text přizpůsobit podle toho, jak budeš přidávat další funkcionality a informace do svého projektu.
+Reference:
+
+https://www.youtube.com/watch?v=8sAyPDLorek - youtube video o prvni Flutter aplikaci
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first#3 - zakládaní projektu a první Flutter aplikace
