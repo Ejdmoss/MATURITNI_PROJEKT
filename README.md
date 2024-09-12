@@ -16,5 +16,5 @@ Tento projekt je postaven pomocí moderních technologií:
 - REST API pro integraci s dalšími fitness službami (budoucí rozšíření)
 # Reference:
 
-https://www.youtube.com/watch?v=8sAyPDLorek - youtube video o prvni Flutter aplikaci
-https://codelabs.developers.google.com/codelabs/flutter-codelab-first#3 - zakládaní projektu a první Flutter aplikace
+https://www.youtube.com/watch?v=8sAyPDLorek - youtube video o první Flutter aplikaci
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first#3 - zakládání projektu a první Flutter aplikace
