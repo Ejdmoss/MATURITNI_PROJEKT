@@ -176,7 +176,7 @@ class WorkoutPage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.all(20),
           child: Text('You have '
-              '${appState.favorites.length} favorites:'),
+              '${appState.favorites.length} favorite:'),
         ),
         for (var pair in appState.favorites)
           ListTile(
