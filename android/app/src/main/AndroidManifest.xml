@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="gym_app"
+=======
+        android:label="flutter_1"
+>>>>>>> 6f4805942d03d1acca4f406e034d658224432a4e
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

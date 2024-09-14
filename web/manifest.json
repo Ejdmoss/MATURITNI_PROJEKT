@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "gym_app",
     "short_name": "gym_app",
+=======
+    "name": "flutter_1",
+    "short_name": "flutter_1",
+>>>>>>> 6f4805942d03d1acca4f406e034d658224432a4e
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
