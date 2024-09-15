@@ -19,3 +19,4 @@ Tento projekt je postaven pomocí moderních technologií:
 https://www.youtube.com/watch?v=8sAyPDLorek - youtube video o první Flutter aplikaci
 https://codelabs.developers.google.com/codelabs/flutter-codelab-first#3 - zakládání projektu a první Flutter aplikace
 https://fonts.google.com/icons?selected=Material+Icons:fitness_center:&icon.query=workout&icon.size=24&icon.color=%23e8eaed - ikony pro flutter
+https://www.geeksforgeeks.org/flutter-set-background-image/ - Nastavení pozadí reference
